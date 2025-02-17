@@ -1,16 +1,17 @@
-# music_app
+## Music App
+Music listening application where administrators can manage and edit the song list, while users can listen to music based on their preferences.
 
-A new Flutter project.
+## Futures
+- Login with email or google
+- **For Admin:**
+    - Add, edit, delete songs
+- **For user:**
+    - Register an account and change your email password if necessary
+    - Change tracks or mix tracks when listening to music
+    - Share songs and add to favorites list
+    - Switch the light/dark interface
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Build with
+- Frontend: Flutter, Dart
+- API: <u>[Link](https://thantrieu.com/resources/braniumapis/songs.json)</u>
+- Database: Firebase
